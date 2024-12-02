@@ -1,4 +1,4 @@
-#Exercício 
+# Exercício 
 
 - Existe uma lista de arquivos que precisa ser transformada em árvore, acontece que esta lista está em um array com valores abaixo.
 

@@ -1,6 +1,6 @@
 # Exercício 
 
-- Existe uma lista de arquivos que precisa ser transformada em árvore, acontece que esta lista está em um array com valores abaixo.
+Existe uma lista de arquivos que precisa ser transformada em árvore, acontece que esta lista está em um array com valores abaixo.
 
 /home/usuario/Documents/prova_ed.odt
 /home/usuario/Documents/hino_BOTAFOGO.mp3
